@@ -1,6 +1,6 @@
 <header>
+<!--<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/6bfeca48-22aa-4ac6-a390-4b990bcfa5b6" />
 
-<!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
